@@ -511,11 +511,10 @@ Insurance-Fraud-Analytics-PowerBI/
 │
 ├── Insurance_Dashboard.pbix
 │
-├── screenshots/
-│   ├── start.png
-│   ├── executive-overview.png
-│   ├── claim-analysis.png
-│   └── fraud-analysis.png
-│
-└── dataset/
-    └── insurance.csv
+└── screenshots/
+    ├── start.png
+    ├── executive-overview.png
+    ├── claim-analysis.png
+    └── fraud-analysis.png
+
+
